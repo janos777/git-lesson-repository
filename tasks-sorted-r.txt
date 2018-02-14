@@ -1,0 +1,6 @@
+4 manipulations
+3 redirections
+2 basic terminal operations
+2 basic terminal operations
+2 basic terminal operations
+1 setup the environment
